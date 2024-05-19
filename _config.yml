@@ -22,7 +22,7 @@ repository               : "kangkannnng/kangkannnng.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Junchi Kang"
+  name             : "康俊驰(Junchi Kang)"
   pronouns         : # example: "she/her"  
   bio              : "NUDT SE Master Student"
   location         : "Changsha, China"
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/87-78-71-6"
+  zhihu            : # "https://www.zhihu.com/people/87-78-71-6"
 
 
 # Site Settings
