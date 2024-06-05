@@ -21,4 +21,4 @@ I am a master's student at the National University of Defense Technology, and I 
 
 # Lab & Supervisor
 
-At present, I am studying in State key laboratory of parallel and distributed processing(PDL), and the supervisor is Academician Huaimin Wang, and at the same time, Professor Dawei Feng Dawei provides specific guidance.
+At present, I am studying in State key laboratory of parallel and distributed processing(PDL), and the supervisor is Academician Huaimin Wang, and at the same time, Professor Dawei Feng provides specific guidance with great patience ♥.
