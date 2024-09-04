@@ -11,7 +11,7 @@ Welcome to my website.
 
 # About me
 
-I am a master's student at the National University of Defense Technology, and I am responsible for researching the direction of the combination of large models and materials fields in AI4Science. I am very interested in the training optimization and accelerated inference of large models, and I hope to communicate more with you.
+I am a master's student at the National University of Defense Technology, and I am very interested in how to use large models more efficiently and how to solve problems using Multi-Agent architecture. Hope to communicate more with you.
 
 # Education
 
