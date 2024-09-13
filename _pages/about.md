@@ -12,6 +12,7 @@ Welcome to my website.
 # About me
 
 I am a master's student at the National University of Defense Technology, and I am very interested in how to use large models more efficiently and how to solve problems using Multi-Agent architecture. Hope to communicate more with you.
+Currently, my research focuses on AIOps, which involves using data-driven approaches and AI to automate IT operation tasks such as log analysis and incident management.
 
 # Education
 
