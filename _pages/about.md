@@ -23,4 +23,4 @@ Currently, my research focuses on AIOps, which involves using data-driven approa
 
 # Lab & Supervisor
 
-At present, I am studying in State key laboratory of parallel and distributed processing(PDL), and the supervisor is Academician Huaimin Wang, and at the same time, Professor Dawei Feng provides specific guidance with great patience ♥.
+At present, I am studying in the State key laboratory of parallel and distributed processing(PDL), and the supervisor is Academician Huaimin Wang. At the same time, Professor Dawei Feng provides specific guidance with great patience ♥.
