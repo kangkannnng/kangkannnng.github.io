@@ -7,19 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website.
-
 # About me
 
-I am a master's student at the National University of Defense Technology, and I am very interested in how to use large models more efficiently and how to solve problems using Multi-Agent architecture. 
+I am an M.S. student at the National University of Defense Technology. My interests include making LLMs more efficient and applying multi-agent architectures to practical problem solving.
 
-Currently, my research focuses on AIOps, which involves using data-driven approaches and AI to automate IT operation tasks such as log analysis and incident management. Hope to communicate more with you.
+My current research focuses on AIOps — using data-driven methods and AI to automate IT operations such as log analysis and incident management. I look forward to connecting and discussing related topics.
 
 # Education
 
 2019.6-2023.6 B.S. in Software Engineering, School of Computer Science, National University of Defense Technology
 
-2023.9-2026.6 (expected) Master of Science in Software Engineering, School of Computer Science, National University of Defense Technology
+2023.9–2026.6 M.S. in Software Engineering, School of Computer Science, National University of Defense Technology
+
+# Publications
+
+- A Survey on the Application of Large Language Model-Based Agents in Root Cause Analysis of Software Systems — Submitted
+
+# Internships
+
+- Tencent, CSIG — SRE Intern (2025.07–2025.09)
+  - Built LLM- and statistics-driven alert triage to suppress noise and prioritize business-impacting incidents.
+  - Automated gateway alert clustering and report generation via NLP and aggregation analysis, improving analysis efficiency and decision support.
+  - Impact: Daily alerts reduced from 665 to 160 (−76%); alert categories reduced from 1,823 to 428 (−77%).
+
+- iFLYTEK, AI Engineering Institute — Assistant AI R&D Engineer (2024.08–2024.09)
+  - Fine-tuned Spark 13B with LoRA for spike appid prediction from 3,600+ sample telemetry, achieving 87% accuracy on surge scenarios.
+  - Implemented multi-agent workflow for end-to-end crash localization via logs, stack traces, and report generation.
+  - Built RAG pipeline on 13.78M XFS log lines with vectorized expert playbooks to auto-generate error analysis reports.
 
 # Lab & Supervisor
 
