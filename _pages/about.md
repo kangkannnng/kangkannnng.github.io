@@ -25,12 +25,12 @@ At present, I am studying in the State key laboratory of parallel and distribute
 
 ## Publications
 
-- A Survey on the Application of Large Language Model-Based Agents in Root Cause Analysis of Software Systems — Submitted
+- **Kang JC**, Ding B, Feng DW, Zhai YZ, Zhang XH, Wang HM. A Survey on the Application of Large Language Model-Based Agents in Root Cause Analysis of Software Systems. Ruan Jian Xue Bao / Journal of Software, 2025 (in Chinese). **Accepted**. [Online link](https://www.jos.org.cn/jos/article/abstract/7594)
 
 ## Internships
 
 ### Tencent, CSIG — SRE Intern (2025.07–2025.09)
-  - Built LLM- and statistics-driven alert triage to suppress noise and prioritize business-impacting incidents.
+  - Built LLM-based and statistics-driven alert triage to suppress noise and prioritize business-impacting incidents.
   - Automated gateway alert clustering and report generation via NLP and aggregation analysis, improving analysis efficiency and decision support.
   - Impact: Daily alerts reduced from 665 to 160 (−76%); alert categories reduced from 1,823 to 428 (−77%).
 
