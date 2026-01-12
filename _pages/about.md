@@ -13,6 +13,10 @@ I am an M.S. student at the National University of Defense Technology. My intere
 
 My current research focuses on AIOps — using data-driven methods and AI to automate IT operations such as log analysis and incident management. I look forward to connecting and discussing related topics.
 
+## Career
+
+Tencent, CSIG — SRE Engineer (Starting after graduation)
+
 ## Education
 
 - 2019.6-2023.6 B.S. in Software Engineering, School of Computer Science, National University of Defense Technology
@@ -26,10 +30,6 @@ At present, I am studying in the State key laboratory of parallel and distribute
 ## Publications
 
 - **Kang JC**, Ding B, Feng DW, Zhai YZ, Zhang XH, Wang HM. A Survey on the Application of Large Language Model-Based Agents in Root Cause Analysis of Software Systems. Ruan Jian Xue Bao / Journal of Software, 2025 (in Chinese). **Accepted**. [Online link](https://www.jos.org.cn/jos/article/abstract/7594)
-
-## Career
-
-Tencent, CSIG — SRE Engineer (Starting after graduation)
 
 ## Internships
 
