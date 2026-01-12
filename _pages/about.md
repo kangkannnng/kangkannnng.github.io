@@ -27,6 +27,10 @@ At present, I am studying in the State key laboratory of parallel and distribute
 
 - **Kang JC**, Ding B, Feng DW, Zhai YZ, Zhang XH, Wang HM. A Survey on the Application of Large Language Model-Based Agents in Root Cause Analysis of Software Systems. Ruan Jian Xue Bao / Journal of Software, 2025 (in Chinese). **Accepted**. [Online link](https://www.jos.org.cn/jos/article/abstract/7594)
 
+## Career
+
+Tencent, CSIG — SRE Engineer (Starting after graduation)
+
 ## Internships
 
 ### Tencent, CSIG — SRE Intern (2025.07–2025.09)
