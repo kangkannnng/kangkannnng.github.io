@@ -29,11 +29,9 @@ At present, I am studying in the State key laboratory of parallel and distribute
 
 ## Publications
 
-- **Kang JC**, Ding B, Feng DW, Zhai YZ*, Zhang XH, Wang HM. A Survey on the Application of Large Language Model-Based Agents in Root Cause Analysis of Software Systems. Ruan Jian Xue Bao / Journal of Software, 2025 (in Chinese). **Accepted**. [Online link](https://www.jos.org.cn/jos/article/abstract/7594)
+- **Kang JC**, Ding B, Feng DW, Zhai YZ*, Zhang XH, Wang HM. A Survey on the Application of Large Language Model-Based Agents in Root Cause Analysis of Software Systems. Ruan Jian Xue Bao / Journal of Software, 2025 (in Chinese). [Online link](https://www.jos.org.cn/jos/article/abstract/7594)
 
-- **Kang JC**, Zhang XH*, Zhai YZ, Feng DW, Ding B, Wang HM.
-Context-RCA: A Context-Aware Multi-Agent Framework for Root Cause Analysis in Microservice Systems.
-Proceedings of the 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), Glasgow, UK, June 9–12, 2026. **Submitted**.
+- **Kang J**, Zhang X*, Zhai Y, Feng D, Ding B, Wang H. Context-RCA: A Context-Controlled Multi-Agent Framework for Root Cause Analysis in Microservice Systems. Proceedings of the 17th IEEE International Conference on JointCloud Computing (JCC 2026). **(CCF-C)**
 
 ## Internships
 
